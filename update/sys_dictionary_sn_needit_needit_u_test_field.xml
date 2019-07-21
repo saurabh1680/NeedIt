@@ -53,7 +53,7 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-07-20 12:05:27</sys_created_on>
-        <sys_id>e8099c0953723300ba07ddeeff7b1255</sys_id>
+        <sys_id>d33f56d953323300ba07ddeeff7b12f9</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Test field</sys_name>
         <sys_package display_value="NeedIt" source="sn_needit">c181488d53323300ba07ddeeff7b12fc</sys_package>
@@ -61,7 +61,7 @@
         <sys_scope display_value="NeedIt">c181488d53323300ba07ddeeff7b12fc</sys_scope>
         <sys_update_name>sys_dictionary_sn_needit_needit_u_test_field</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-07-20 12:05:27</sys_updated_on>
+        <sys_updated_on>2019-07-21 16:28:07</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
